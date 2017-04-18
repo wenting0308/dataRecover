@@ -1,0 +1,3 @@
+[console_scripts]
+data_recover = dataRecover.main:main
+
